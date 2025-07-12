@@ -271,10 +271,10 @@ footer {
 }
 
 footer .socialMedia {
-    display: flex;
-    column-gap: 1em;
+  display: flex;
+  column-gap: 1em;
 }
 
 footer p {
-    text-align: center;
+  text-align: center;
 }
